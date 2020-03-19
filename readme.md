@@ -1,8 +1,14 @@
+# Disclosure
+
 Steps described below are taken from https://askubuntu.com/questions/364972/realtek-8188cus-doesnt-work/395340#395340.
 
 These solutions are from an answer by [SirCharlo](https://askubuntu.com/users/40421/sircharlo).
 
+A copy of the mentioned git repository [pvaret/rlt8192cu-fixes](https://github.com/pvaret/rtl8192cu-fixes.git) are also included in this repository.
 
+I do not own any of the mentioned repositories nor steps described below. This repository's goal is to archive these installation steps and the necessary git repository.
+
+# Installation Steps
 
 First of all, ensure you have the necessary prerequisites:
 
